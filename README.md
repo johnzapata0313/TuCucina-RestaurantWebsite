@@ -2,7 +2,8 @@
 
 A responsive restaurant website built for **Los Arrieros**, an authentic Colombian restaurant based in Reading, PA.
 
-<img width="2780" height="1488" alt="Image 6-24-26 at 1 38 PM" src="https://github.com/user-attachments/assets/942c20e0-7cbe-4611-9558-303f1e1a5e9f" />
+<img width="2780" height="1488" alt="Image 6-24-26 at 1 38 PM" src="https://github.com/user-attachments/assets/be1e4a9f-6015-4a98-91eb-761613e6fdc5" />
+
 
 ## Live Demo
 
