@@ -4,7 +4,7 @@ A responsive restaurant website built for **Los Arrieros**, an authentic Colombi
 
 ## Live Demo
 
-[View Site](https://johnzapata0313.github.io/TuCucina-RestaurantWebsite)
+[View Site]([https://johnzapata0313.github.io/TuCucina-RestaurantWebsite](https://tucucina-restaurant.netlify.app)
 
 ## Features
 
