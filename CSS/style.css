@@ -81,7 +81,7 @@ body {
 
 /* ── Hero ── */
 .hero {
-  background: url("https://www.travelingwithmj.com/wp-content/uploads/2024/01/Depositphotos_322750078_S.jpg") no-repeat center center/cover;
+  background: url("../images/bandeja-paisa-colombia-scaled.jpg") no-repeat center center/cover;
   min-height: 92vh;
   display: flex;
   justify-content: center;
